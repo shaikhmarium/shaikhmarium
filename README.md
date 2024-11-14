@@ -4,7 +4,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWl5ZzFlcWdxbXc3am5objJod3Z5Yzh1c3F0ZWx1M3ZkejhjMzVqNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jBN1hXQCieS26Ba6iB/giphy.gif" alt="Funny GIF">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhmarium&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhmarium" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shaikhmarium&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhmarium" /> </p>
 
 - 🔭 I’m currently working on **Ecommerce react website.**
 
